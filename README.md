@@ -4,7 +4,7 @@ Aplicación web desarrollada con Django y psutil que muestra en tiempo real el e
 
 ---
 
-## 👥 Identificación del Grupo
+## 👥 Integrantes del Grupo 3
 
 | Nombre Completo | Número de Cuenta |
 |----------------|-----------------|
